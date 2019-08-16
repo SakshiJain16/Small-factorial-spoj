@@ -1,0 +1,1 @@
+# Small-factorial-spoj
